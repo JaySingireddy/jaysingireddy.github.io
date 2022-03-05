@@ -1,2 +1,2 @@
-# jaystrange.github.io
+# jaysingireddy.github.io
 My own page for Malware Analysis | CrackMe | DFIR ....! 
